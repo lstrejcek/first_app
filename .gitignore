@@ -1,0 +1,10 @@
+# Ignore bundler config.
+/.bundler
+
+# Ignore the default SQLite database.
+*~
+
+.project
+.DS_Store
+.idea
+.secret
